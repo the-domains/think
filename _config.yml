@@ -1,0 +1,28 @@
+name: think
+favicon: null
+layout_spectrum: 0.30658968072384596
+typography_spectrum: 0.38964007142931223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8525551417842507
+  lightness: 0.8337425366044044
+  saturation: 0.17301746550947428
+  rhythmicContrast: 0.5373223901260644
+purpose: []
